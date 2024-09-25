@@ -95,6 +95,7 @@ void receiveLoRaData() {
     Serial.println("Received Data: " + receivedData);
   }
 }
+```
 
 ### Serial Data Transfer
 The system can transfer the collected data via Serial using the keyboard command. It will send a user-defined number of data points stored in the EEPROM memory.
