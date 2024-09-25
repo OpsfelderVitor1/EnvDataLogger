@@ -15,8 +15,12 @@ This project is part of the **EA076 - Embedded Systems Course** and was develope
 
 The project is structured as follows:
 
-
-├── src │ ├── main.ino # Main Arduino sketch │ ├── LoRaCommunication.h # Header file for LoRa functions │ ├── LoRaCommunication.cpp # Implementation of LoRa functions ├── README.md # This documentation file ├── LICENSE # Project license
+├── src
+│   ├── main.ino               # Main Arduino sketch
+│   ├── LoRaCommunication.h     # Header file for LoRa functions
+│   ├── LoRaCommunication.cpp   # Implementation of LoRa functions
+├── README.md                   # This documentation file
+├── LICENSE                     # Project license
 
 
 
